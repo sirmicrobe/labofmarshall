@@ -26,3 +26,5 @@ design:
   show_role: true
   show_social: true
 ---
+![Lab timeline](/media/gantt.jpg)
+red = graduate student; green = technician; yellow = undergraduate student
