@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include microbial ecology and evolution.
 
 interests:
-- Cats
+- marine critters
 
 education:
   courses:
@@ -32,10 +32,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'christopher.marshall@marquette.edu'
+  link: 'christina.lim@marquette.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/SirMicrobe
+  link: https://twitter.com/christinalim0_0
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=yRoCyfMAAAAJ&hl=en
@@ -60,4 +60,4 @@ user_groups:
 - Researchers
 ---
 
-My research 
+Christina grew up in Southern California before moving even further south to attend the University of North Carolina-Chapel Hill where she graduated with a BS in environmental and marine science. At Carolina, she fell into research studying host-microbe interactions and hasn’t found a reason yet to stop. She is the Marshall lab's (long suffering) lab manager whose current research is focused on examining the affect that bacteriophages have on the fitness of Pseudomonas aeruginosa. When she is not in lab putting out fires (literal and metaphorical), she enjoys winning March Madness bracket challenges, serving as an airbnb for an ever-rotating cast of foster cats, and scrolling twitter to find funny science tweets to send to the lab’s slack channel.
